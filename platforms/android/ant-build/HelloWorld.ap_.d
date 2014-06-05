@@ -22,6 +22,7 @@ C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\img \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\index.html \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\js \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\phonegap.js \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\plugins \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\res \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\spec \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\spec.html \
@@ -33,6 +34,11 @@ C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\js\boo
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\js\fastclick.js \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\js\index.js \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\js\jquery-1.11.0.min.js \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\plugins\org.apache.cordova.device-orientation \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\plugins\org.apache.cordova.device-orientation\www \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\plugins\org.apache.cordova.device-orientation\www\compass.js \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\plugins\org.apache.cordova.device-orientation\www\CompassError.js \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\plugins\org.apache.cordova.device-orientation\www\CompassHeading.js \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\res\icon \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\res\screen \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\assets\www\res\icon\android \

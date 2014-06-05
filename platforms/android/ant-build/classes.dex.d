@@ -6,4 +6,6 @@ C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\classes
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\classes\org\apache\cordova\deviceorientation\CompassListener$1.class \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\classes\org\apache\cordova\deviceorientation\CompassListener.class \
 C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\dexedLibs\classes-18536c63a38368236d72066b13c937d0.jar \
