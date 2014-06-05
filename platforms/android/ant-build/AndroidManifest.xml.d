@@ -1,2 +1,2 @@
-C:\Users\R\Documents\iesgc2\Dropbox\Proyecto\brujula\platforms\android\ant-build\AndroidManifest.xml : \
-C:\Users\R\Documents\iesgc2\Dropbox\Proyecto\brujula\platforms\android\AndroidManifest.xml \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\ant-build\AndroidManifest.xml : \
+C:\Users\R\Documents\GitHub\brujula_phonegap\platforms\android\AndroidManifest.xml \

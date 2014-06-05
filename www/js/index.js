@@ -20,7 +20,7 @@ var app = {
     // Update DOM on a Received Event
     receivedEvent: function(id) {
         //tomaremos el muestreo de datos cada 80 milisegundos (bye bye batería)
-        watchID = navigator.compass.watchHeading(onSuccess, onError, {frequency: 80});
+        watchID = navigator.compass.watchHeading(onSuccess, onError, {frequency: 10});
 
         //función onSuccess que aplica CSS a la imagen de la brújula del html
         function onSuccess(heading){
